@@ -1,0 +1,93 @@
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer">
+    <title>Cars Website</title>
+    <link rel="stylesheet" href="https://cars-website-yt.netlify.app/style.css">
+  </head>
+  <body>
+    <div class="container">
+      <div class="navbar">
+        <a href="https://cars-website-yt.netlify.app/#">
+          <img src="https://cars-website-yt.netlify.app/images/logo.png" alt="logo">
+        </a>
+        <nav>
+          <ul>
+            <li><a href="https://cars-website-yt.netlify.app/#">HOME</a></li>
+            <li><a href="https://cars-website-yt.netlify.app/#">OUR CARS</a></li>
+            <li><a href="https://cars-website-yt.netlify.app/#">ABOUT</a></li>
+            <li><a href="https://cars-website-yt.netlify.app/#">CONTACT</a></li>
+            <li>
+              <a href="https://cars-website-yt.netlify.app/#">
+                <i class="fa-solid fa-bars"></i>
+              </a>
+            </li>
+          </ul>
+        </nav>
+      </div>
+
+      <div class="row">
+        <div class="col">
+          <h1>
+            CARS
+            <hr>
+            WEBSITE
+          </h1>
+          <p class="desc">
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Impedit
+            accusantium nemo illo mollitia sunt! Ipsum similique et ad! Sint est
+            pariatur reiciendis officiis repudiandae recusandae dolores et qui
+            porro vel!
+          </p>
+          <button class="btn">ALL CARS</button>
+        </div>
+        <div class="col">
+          <div class="cards">
+            <div class="card card-1">
+              <div class="card-head">
+                <h5>Togg</h5>
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing.</p>
+              </div>
+              <div class="card-bottom">
+                <a href="https://cars-website-yt.netlify.app/#" class="btn">Details</a>
+              </div>
+            </div>
+            <div class="card card-2">
+              <div class="card-head">
+                <h5>Audi</h5>
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing.</p>
+              </div>
+              <div class="card-bottom">
+                <a href="https://cars-website-yt.netlify.app/#" class="btn">Details</a>
+              </div>
+            </div>
+            <div class="card card-3">
+              <div class="card-head">
+                <h5>BMW</h5>
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing.</p>
+              </div>
+              <div class="card-bottom">
+                <a href="https://cars-website-yt.netlify.app/#" class="btn">Details</a>
+              </div>
+            </div>
+            <div class="card card-4">
+              <div class="card-head">
+                <h5>Mercedes-Benz</h5>
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing.</p>
+              </div>
+              <div class="card-bottom">
+                <a href="https://cars-website-yt.netlify.app/#" class="btn">Details</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+
+</body></html>
+------MultipartBoundary--dX19ny3rfEFJNjpTkT5QB3vmJfENobk2yH5IDVwSBy----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css
